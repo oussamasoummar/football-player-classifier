@@ -19,6 +19,7 @@ This project involves building a web application for classifying football player
   <img width="954" alt="Screenshot 2024-06-25 210917" src="https://github.com/oussamasoummar/football-player-classifier/assets/125143323/1c5d734b-9a2b-44e3-94b1-7f00d4ecc04f">
   <img width="960" alt="after_classifier" src="https://github.com/oussamasoummar/football-player-classifier/assets/125143323/bd3baacb-def4-4b57-9e68-91d44ac13d75">
 - **technologies:**
-  
+  - flask,openCV,pyWavlet
+  - html/css/js
 
 
